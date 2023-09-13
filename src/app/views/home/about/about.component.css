@@ -1,0 +1,12 @@
+.about .container {
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-image {
+  margin-top: 50px;
+}
+
+
+
+
